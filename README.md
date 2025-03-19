@@ -12,6 +12,13 @@ The Command Prompt (CMD) is a powerful 🛠️ tool used to execute commands and
 - 🛡️ Useful for troubleshooting and system management.
 
 ---
+## 🛎️ **Prerequisites** ⚙️🖱️💻
+
+Ensure you have the following installed on your system:
+- **Git Bash**: Download and install the latest version from the [Git website](https://git-scm.com/downloads).
+- **Visual Studio Code (VS Code)**: Download from the [VS Code website](https://code.visualstudio.com/).
+
+---
 
 ## 📍 **1. Viewing the Current Directory** 🗺️🔎📍
 
